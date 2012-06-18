@@ -24,8 +24,6 @@ class UniqueRandom {
 
     /**
      * UniqueRandom::__construct()
-     *
-     * @return bool
      */
     public function __construct() {
         $this->alphabets = TRUE;
